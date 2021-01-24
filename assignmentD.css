@@ -1,0 +1,14 @@
+label{ 
+    color: green;
+    font-size: large;
+    text-shadow: 2px 2px rgb(133, 118, 173);
+}
+form{
+    color: blueviolet;
+    font-size: x-large;
+
+
+}
+textarea{
+    border-color: yellowgreen;
+}

@@ -1,0 +1,13 @@
+table, th, td {
+    border: 1px solid red;
+    border-collapse: collapse;
+  }
+  h1, p{
+    color: darkgreen;
+  }
+  a {
+    text-decoration: none;
+  }
+  ul {
+    list-style-type: circle;
+  }
